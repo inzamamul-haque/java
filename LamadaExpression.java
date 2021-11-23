@@ -1,6 +1,5 @@
 /*
 * Lamada Expression
-* Stream API
 */
 
 import java.util.Arrays;
